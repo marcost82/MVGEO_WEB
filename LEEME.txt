@@ -1,0 +1,9 @@
+MVGEO VERSION 21
+
+Ajustes finales:
+- Texto superpuesto del slider: 15% menor respecto del ajuste anterior, SOLO en teléfono.
+- Imágenes de Laboratorio de Calibración: mayor nitidez/protagonismo, SOLO en teléfono.
+- Imágenes de Servicios de Topografía y Geodesia: mayor nitidez/protagonismo, SOLO en teléfono.
+- Botón flotante: ENVIAR / WHATSAPP.
+- Teléfono / WhatsApp: mismo contacto en versión móvil y computador.
+- Escritorio se mantiene sin cambios en slider e imágenes.
